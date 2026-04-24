@@ -1,0 +1,34 @@
+{
+  "password_validator": {
+    "title": "Check your password",
+    "subtitle": "Verify the strength of your access credential.",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "password": "Password"
+    },
+    "placeholders": {
+      "name": "E.g.: John Doe",
+      "email": "your@domain.com",
+      "password": "6 numeric digits"
+    },
+    "requirements": {
+      "title": "Security Rules",
+      "length": "Password must have exactly 6 digits",
+      "range": "Password must be between 184759 and 856920",
+      "adjacent": "At least one pair of adjacent identical digits",
+      "nonDecreasing": "Digits must not decrease from left to right"
+    },
+    "status": {
+      "analysis": "Security Analysis",
+      "success": "Security Validated",
+      "error": "Submission Error"
+    },
+    "feedback": {
+      "success": "Success!"
+    },
+    "aria": {
+      "submit": "Validate password and submit form"
+    }
+  }
+}

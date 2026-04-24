@@ -1,0 +1,12 @@
+{
+  "common": {
+    "buttons": {
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "loading": "Loading..."
+    },
+    "errors": {
+      "generic": "Something went wrong. Please try again."
+    }
+  }
+}

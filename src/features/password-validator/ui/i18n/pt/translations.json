@@ -1,0 +1,34 @@
+{
+  "password_validator": {
+    "title": "Valide sua senha",
+    "subtitle": "Verifique a robustez da sua credencial de acesso.",
+    "labels": {
+      "name": "Nome",
+      "email": "E-mail",
+      "password": "Senha"
+    },
+    "placeholders": {
+      "name": "Ex: João da Silva",
+      "email": "seu@dominio.com",
+      "password": "6 dígitos numéricos"
+    },
+    "requirements": {
+      "title": "Regras de segurança",
+      "length": "Senha deve ter exatamente 6 dígitos",
+      "range": "Senha deve estar entre os números 184759 e 856920",
+      "adjacent": "Senha deve conter pelo menos um par de dígitos adjacentes iguais",
+      "nonDecreasing": "Senha não pode diminuir os dígitos da esquerda para a direita"
+    },
+    "status": {
+      "analysis": "Análise de Segurança",
+      "success": "Segurança Validada",
+      "error": "Erro na Submissão"
+    },
+    "feedback": {
+      "success": "Sucesso!"
+    },
+    "aria": {
+      "submit": "Validar senha e enviar formulário"
+    }
+  }
+}

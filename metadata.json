@@ -1,0 +1,6 @@
+{
+  "name": "ZBRA Password Validator",
+  "description": "A luxury, mobile-first password validator built with Feature-Based Clean Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["forms", "api-integration", "state-management"]
+}
